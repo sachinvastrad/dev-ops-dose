@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dev-ops-dose
 
 You can use the [editor on GitHub](https://github.com/sachinvastrad/dev-ops-dose/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
