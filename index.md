@@ -1,6 +1,6 @@
 ## Welcome to Dev-ops-dose
 
-Here is a 30 days changllege to you to learn something new. 
+Here is a 30 days challenge to you to learn something new. 
 
 #DEVOPS
 
