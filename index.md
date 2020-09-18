@@ -29,11 +29,12 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 [Kubernetes and MiniKube ](https://youtu.be/d-7S7n8pcUQ).
 
 
-#  Day 2 Video Recorded link
+
+#  Day 2 Video and Recorded link
 
 [KUBECTL ](https://youtu.be/_hrITUq_aMA).
 
-
+Presentation [Link](https://github.com/sachinvastrad/dev-ops-dose/blob/master/K8DAY2.pdf)
 
 ### Support or Contact
 
