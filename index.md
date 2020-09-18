@@ -44,5 +44,9 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [KubeCtl cheetsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
+# Day 3 Video and Recording link
+[video](https://youtu.be/rxTpc5-j4_w)
+
+
 ### Support or Contact
 
