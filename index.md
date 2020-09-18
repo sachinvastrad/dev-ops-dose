@@ -2,7 +2,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Welcome to Dev-ops-dose
+# Welcome to Dev-ops-dose
 
 Here is a 30 days challenge, to learn something new. 
 
@@ -24,12 +24,12 @@ Every day you need to spend 30 mins with me on Live session.
 
 For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/EYtBtyICAYwCVAngWKqUgi).
 
-### - Day 1 Video link
+#  Day 1 Video link
 
 [Kubernetes and MiniKube ](https://youtu.be/d-7S7n8pcUQ).
 
 
-### - Day 2 Video link
+#  Day 2 Video link
 
 [KUBECTL ](https://youtu.be/_hrITUq_aMA).
 
