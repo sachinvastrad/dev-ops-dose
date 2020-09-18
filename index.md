@@ -28,7 +28,11 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [Kubernetes and MiniKube ](https://youtu.be/d-7S7n8pcUQ).
 
+[Day presentation] (https://github.com/sachinvastrad/dev-ops-dose/blob/master/k8day1.pdf)
 
+[MiNI-KUBE on Windows] (https://github.com/sachinvastrad/dev-ops-dose/blob/master/MiniKubeOnWindows.md)
+
+[MiNI-KUBE on Mac/Linux] (https://github.com/sachinvastrad/dev-ops-dose/blob/master/MiniKubeOnMac.md)
 
 #  Day 2 Video and Recorded link
 
