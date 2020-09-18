@@ -1,3 +1,7 @@
+<img src="Day2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ## Welcome to Dev-ops-dose
 
 Here is a 30 days challenge, to learn something new. 
