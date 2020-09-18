@@ -38,7 +38,7 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [KUBECTL ](https://youtu.be/_hrITUq_aMA).
 
-Presentation [Link](https://github.com/sachinvastrad/dev-ops-dose/blob/master/K8DAY2.pdf)
+[Presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/K8DAY2.pdf)
 
 ### Support or Contact
 
