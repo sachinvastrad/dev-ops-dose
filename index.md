@@ -26,7 +26,7 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 #  Day 1 Video Recorded link
 
-[Kubernetes and MiniKube ](https://youtu.be/d-7S7n8pcUQ)
+[Video](https://youtu.be/d-7S7n8pcUQ)
 
 [presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/k8day1.pdf)
 
@@ -36,7 +36,7 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 #  Day 2 Video and Recorded link
 
-[KUBECTL ](https://youtu.be/_hrITUq_aMA).
+[Video](https://youtu.be/_hrITUq_aMA).
 
 [Presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/K8DAY2.pdf)
 
