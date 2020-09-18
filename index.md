@@ -30,9 +30,9 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/k8day1.pdf)
 
-[MiNI-KUBE on Windows](https://github.com/sachinvastrad/dev-ops-dose/blob/master/MiniKubeOnWindows.md)
+[MiNI-KUBE on Windows Cheatsheet](https://github.com/sachinvastrad/dev-ops-dose/blob/master/MiniKubeOnWindows.md)
 
-[MiNI-KUBE on Mac/Linux](https://github.com/sachinvastrad/dev-ops-dose/blob/master/MiniKubeOnMac.md)
+[MiNI-KUBE on Mac/Linux  Cheatsheet ](https://github.com/sachinvastrad/dev-ops-dose/blob/master/MiniKubeOnMac.md)
 
 #  Day 2 Video and Recorded link
 
