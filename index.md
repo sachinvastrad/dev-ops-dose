@@ -40,5 +40,9 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [Presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/K8DAY2.pdf)
 
+[MiniKube PlayGround](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/)
+
+[KubeCtl cheetsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+
 ### Support or Contact
 
