@@ -43,7 +43,10 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 [MiniKube PlayGround](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/)
 
 [KubeCtl cheetsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-
+-----------------------------------------
+## Quiz Time : take a Quiz here  [Quiz click here](https://sachinvastrad.github.io/quiz-time/)
+## Note its all client side quiz , nothing is sent to the server , so your performace is with you only  not disclosed to anyone , unless you do. 
+-----------------------------------------
 # Day 3 Video and Recording link
 [video](https://youtu.be/rxTpc5-j4_w)
 
