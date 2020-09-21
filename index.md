@@ -1,7 +1,8 @@
 <img src="Day3.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />(https://youtu.be/6HXhoO_2jRs)
 
+[Link](https://youtu.be/6HXhoO_2jRs)
 # Welcome to Dev-ops-dose
 
 Here is a 30 days challenge, to learn something new. 
@@ -49,6 +50,9 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 -----------------------------------------
 # Day 3 Video and Recording link
 [video](https://youtu.be/rxTpc5-j4_w)
+
+# Day 4 Video and Recording Link 
+[video](https://youtu.be/6HXhoO_2jRs)
 
 
 ### Support or Contact
