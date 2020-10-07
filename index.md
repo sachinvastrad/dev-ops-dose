@@ -54,6 +54,11 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 # Day 4 Video and Recording Link 
 [video](https://youtu.be/6HXhoO_2jRs)
 
+# Day 5 Video and Recording Link 
+[video](https://youtu.be/wpcRIvXPaLM)
+
+# Day 6 Video and Recording Link 
+[video](https://youtu.be/rzeR4bwij4M)
 
 ### Support or Contact
 
