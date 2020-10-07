@@ -1,4 +1,4 @@
-<img src="Day3.png"
+<img src="Day.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />(https://youtu.be/6HXhoO_2jRs)
 
