@@ -50,7 +50,10 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 -----------------------------------------
 # Day 3 Video and Recording link
 [video](https://youtu.be/rxTpc5-j4_w)
+
 [Presentation 1](https://youtu.be/lAg-_5GuU3k)
+
+
 [Presentation 2](https://youtu.be/m1AJfSFDXIo)
 
 # Day 4 Video and Recording Link 
