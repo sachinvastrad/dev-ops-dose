@@ -1,0 +1,32 @@
+1. Template Deployment 
+kubectl apply -f https://k8s.io/examples/controllers/nginx-deployment.yaml
+
+2.  Get Deployment 
+kubectl get deployment 
+
+3. Delete Deployment 
+
+kubectl delete deployment nginx-deployment
+
+
+4. See details about nodes /pods 
+kubectl describe nodes
+
+
+Upgrade version  
+
+kubectl set image deployment/nginx-deployment nginx=nginx:1.16.1 --record
+
+Edit Deployment
+
+kubectl edit deployment.v1.apps/nginx-deployment
+
+
+Scale up 
+
+kubectl scale deployment.v1.apps/nginx-deployment --replicas=10
+
+Scale Down 
+
+kubectl scale deployment.v1.apps/nginx-deployment --replicas=3
+
