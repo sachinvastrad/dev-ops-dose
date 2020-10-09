@@ -53,6 +53,8 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [Presentation 1](https://youtu.be/lAg-_5GuU3k)
 
+[Cheet Sheet](https://github.com/sachinvastrad/dev-ops-dose/blob/master/CMD_day3.txt)
+
 
 [Presentation 2](https://youtu.be/m1AJfSFDXIo)
 
