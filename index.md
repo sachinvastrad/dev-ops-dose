@@ -64,6 +64,10 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 # Day 6 Video and Recording Link 
 [video](https://youtu.be/rzeR4bwij4M)
+[presentation] (https://github.com/sachinvastrad/dev-ops-dose/blob/master/Day6.pptx)
+
+# Day 7 Video and Recording Link 
+[video](https://youtu.be/Il0W3lPcyZE)
 
 ### Support or Contact
 
