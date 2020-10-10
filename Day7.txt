@@ -1,0 +1,54 @@
+KubeCTL to Spin Pods with  MySQL , redis, Cassandra 
+
+
+Service 
+
+StateLess vs SateFull 
+
+
+Redis
+=========
+kubectl apply -k .
+
+kubectl exec -it redis -- redis-cli
+
+kubectl exec -it redis -- redis-cli
+
+kubectl delete pod redis
+
+
+
+MYSQL 
+===============
+
+ kubectl apply -f  service.yml
+ kubectl apply -f  dep.yml
+ kubectl describe deployment mysql
+kubectl get pods -l app=mysql
+
+kubectl describe pvc mysql-pv-claim
+
+kubectl run -it --rm --image=mysql:5.6 --restart=Never mysql-client -- mysql -h mysql -ppassword
+
+
+kubectl delete deployment,svc mysql
+kubectl delete pvc mysql-pv-claim
+kubectl delete pv mysql-pv-volume
+
+
+Cassandra
+===========
+
+kubectl apply -f  service.yml
+kubectl get svc cassandra
+
+kubectl apply -f was-state.yml
+
+
+kubectl get statefulset cassandra
+
+kubectl get pods -l="app=cassandra"
+
+kubectl exec -it cassandra-0 -- nodetool status
+
+kubectl get statefulset cassandra
