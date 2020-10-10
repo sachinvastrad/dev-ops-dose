@@ -60,18 +60,25 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 # Day 4 Video and Recording Link 
 [video](https://youtu.be/6HXhoO_2jRs)
+
 [Presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/Day4.pdf)
 
 # Day 5 Video and Recording Link 
 [video](https://youtu.be/wpcRIvXPaLM)
 [presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/Day5.pdf)
+
+
 [CheetSheet](https://github.com/sachinvastrad/dev-ops-dose/blob/master/ngx.yml)
+
+
 [ConfigMap](https://github.com/sachinvastrad/dev-ops-dose/blob/master/config.yml)
 
 
 # Day 6 Video and Recording Link 
 [video](https://youtu.be/rzeR4bwij4M)
-[presentation] (https://github.com/sachinvastrad/dev-ops-dose/blob/master/Day6.pptx)
+
+
+[presentation](https://github.com/sachinvastrad/dev-ops-dose/blob/master/Day6.pptx)
 
 # Day 7 Video and Recording Link 
 [video](https://youtu.be/Il0W3lPcyZE)
