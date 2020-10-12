@@ -1,0 +1,13 @@
+minikube start --cpus 4 --memory 8192 
+step 1 https://github.com/helm/helm/releases
+Step 2 Helm init
+step 3 kubectl get pods -n kube-system
+step 4 Helm repo add elastic https://Helm.elastic.co
+
+step 5 curl -O https://raw.githubusercontent.com/elastic/Helm-charts/master/elasticsearch/examples/minikube/values.yaml
+Helm install --name elasticsearch elastic/elasticsearch -f ./values.yaml 
+step 6 helm test elasticsearch --cleanup
+
+step 7 Helm install --name kibana elastic/kibana 
+
+step 8 kubectl port-forward deployment/kibana-kibana 5601 

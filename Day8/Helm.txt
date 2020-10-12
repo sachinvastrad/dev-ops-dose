@@ -1,0 +1,19 @@
+helm init --upgrade  //Install and Upgrade Tiller to current cluster
+helm version //Check the version of Helm installed
+helm repo list  //List Helm repositories
+help repo update  //Update list of Helm charts from repositories
+helm search  //List all installed charts
+helm search foo //search for charts installed
+helm ls
+helm ls --deleted
+helm ls --all
+
+helm install --name foo stable/mysql
+
+helm install --name foo --values config.yaml --timeout 300 --wait stable/mysql
+
+helm delete --purge foo
+helm get values foo
+
+helm upgrade --values config.yaml foo stable/mysql
+helm rollback foo 1
