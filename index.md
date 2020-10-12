@@ -83,5 +83,17 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 # Day 7 Video and Recording Link 
 [video](https://youtu.be/Il0W3lPcyZE)
 
+[ALL Resource ](https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day7)
+
+# Day 8 Video and Resource Link 
+[video](https://youtu.be/mZHu8taq6IY)
+
+
+[Presentation ](https://github.com/sachinvastrad/dev-ops-dose/blob/master/Day8/Presentation6.pdf)
+
+
+[ALL Resource] (https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day8)
+
+
 ### Support or Contact
 
