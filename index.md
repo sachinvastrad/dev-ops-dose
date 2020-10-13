@@ -94,6 +94,12 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 
 [ALL Resource] (https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day8)
 
+# Day 9 Video and Resource Link 
+[video](https://youtu.be/ZATJH4nlIUk)
+https://helm.sh/
+https://artifacthub.io/
+# Day 10 CI CD Pipeline 
+[video](https://youtu.be/ORhRkuS0MOo)
 
 ### Support or Contact
 
