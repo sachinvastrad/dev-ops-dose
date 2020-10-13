@@ -8,6 +8,10 @@ step 5 curl -O https://raw.githubusercontent.com/elastic/Helm-charts/master/elas
 Helm install --name elasticsearch elastic/elasticsearch -f ./values.yaml 
 step 6 helm test elasticsearch --cleanup
 
-step 7 Helm install --name kibana elastic/kibana 
+step 7 kubectl port-forward svc/elasticsearch-master 9200
 
-step 8 kubectl port-forward deployment/kibana-kibana 5601 
+step 8 Helm install --name kibana elastic/kibana 
+
+step 9 kubectl port-forward deployment/kibana-kibana 5601 
+
+step 10 
