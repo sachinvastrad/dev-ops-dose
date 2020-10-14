@@ -17,3 +17,21 @@ helm get values foo
 
 helm upgrade --values config.yaml foo stable/mysql
 helm rollback foo 1
+
+#INSTALL COMPLTET ELK stack 
+
+helm repo add gitlab https://charts.gitlab.io
+helm install --name my-release gitlab/elastic-stack
+
+#INSTALL Mongo DB 
+
+helm repo add bitnami https://charts.bitnami.com/bitnami
+helm install mongodb bitnami/mongodb --set mongodbRootPassword=root --set mongodbUsername=myapp --set mongodbPassword=myapp --set mongodbDatabase=mydb --set replicaSet.enabled=true
+
+#INSTALL GRAFANA 
+ 
+helm install --name my-release stable/grafana
+kubectl port-forward svc/my-release-grafana  80
+
+
+
