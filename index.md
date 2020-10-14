@@ -100,7 +100,7 @@ For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/E
 https://helm.sh/
 https://artifacthub.io/
 
-[ALL Resource] (https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day8)
+[ALL Resource](https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day8)
 
 # Day 10 CI CD Pipeline 
 [video](https://youtu.be/ORhRkuS0MOo)
