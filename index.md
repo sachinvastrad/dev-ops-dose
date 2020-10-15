@@ -50,7 +50,7 @@ Every day you need to spend 30 mins with me on Live session.
 
 
 
-For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/EYtBtyICAYwCVAngWKqUgi).
+### For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/EYtBtyICAYwCVAngWKqUgi).
 
 #  Day 1 Introduction to kubernetes 
 
