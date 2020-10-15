@@ -135,5 +135,8 @@ https://artifacthub.io/
 
 [ALL Resource](https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day10)
 
+# Day 11 
+[video](https://youtu.be/3QwkADcRoPg)
+
 ### Support or Contact
 
