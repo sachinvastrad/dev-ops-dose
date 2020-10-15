@@ -14,13 +14,24 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+
+
+
 # Welcome to Dev-ops-dose
+
+
+
 
 Here is a 30 days challenge, to learn something new. 
 
 
 
+
 # 100% Hands-on and No preaching Theory. Its Do IT Yourself Stuff for complete Devops understanding.
+
+
+
+
 
 # DEVOPS
 
