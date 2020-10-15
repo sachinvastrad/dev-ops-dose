@@ -2,14 +2,19 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />(https://youtu.be/6HXhoO_2jRs)
 
+
 [Complete Playlist](https://www.youtube.com/watch?v=d-7S7n8pcUQ&list=PLGInPFGdXenA2SFXzDWDuAod-T0KeyXg_) 
+
+
+<img src="HypeFree.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 # Welcome to Dev-ops-dose
 
 Here is a 30 days challenge, to learn something new. 
 
-Caution: <img src="HypeFree.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+
 
 # 100% Hands-on and No preaching Theory. Its Do IT Yourself Stuff for complete Devops understanding.
 
