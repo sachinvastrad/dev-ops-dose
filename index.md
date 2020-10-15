@@ -5,7 +5,7 @@
      
 
 
-# [Today Session Link](https://youtu.be/3QwkADcRoPg)
+# [Today Session Link](https://www.youtube.com/watch?v=bWoQKINHjrI)
 
 
 # To get Live Class Notification Please Do  Subscribe and press BELL Icon on my Youtube Channel. :)
@@ -136,7 +136,7 @@ https://artifacthub.io/
 [ALL Resource](https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day10)
 
 # Day 11 
-[video](https://youtu.be/3QwkADcRoPg)
+[video](https://www.youtube.com/watch?v=bWoQKINHjrI)
 
 ### Support or Contact
 
