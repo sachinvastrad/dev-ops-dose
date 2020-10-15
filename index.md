@@ -1,7 +1,6 @@
 <img src="Day.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />(https://youtu.be/6HXhoO_2jRs)
-
+     style="float: left; margin-right: 10px;" />
 
 [Complete Playlist](https://www.youtube.com/watch?v=d-7S7n8pcUQ&list=PLGInPFGdXenA2SFXzDWDuAod-T0KeyXg_) 
 
@@ -18,7 +17,7 @@ Here is a 30 days challenge, to learn something new.
 
 # 100% Hands-on and No preaching Theory. Its Do IT Yourself Stuff for complete Devops understanding.
 
-#DEVOPS
+# DEVOPS
 
 I provide you the day wise training session for 30 days. 
 Every day you need to spend 30 mins with me on Live session. 
