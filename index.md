@@ -2,7 +2,8 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />(https://youtu.be/6HXhoO_2jRs)
 
-[Link](https://youtu.be/6HXhoO_2jRs)
+[Link](https://youtu.be/6HXhoO_2jRs) 
+# Dont Forget to Subscribe and press BELL Icon on Youtube Channel , So that you get notification on Time :)
 # Welcome to Dev-ops-dose
 
 Here is a 30 days challenge, to learn something new. 
