@@ -1,6 +1,8 @@
 <img src="Day.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+     
+     [Today Session Link](https://youtu.be/3QwkADcRoPg)
 
 [Complete Playlist](https://www.youtube.com/watch?v=d-7S7n8pcUQ&list=PLGInPFGdXenA2SFXzDWDuAod-T0KeyXg_) 
 
