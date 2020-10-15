@@ -7,7 +7,7 @@
 
 Here is a 30 days challenge, to learn something new. 
 
-Caution: <img src=https://github.com/sachinvastrad/dev-ops-dose/blob/master/HypeFree.jpg"
+Caution: <img src="HypeFree.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
