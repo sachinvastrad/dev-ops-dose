@@ -8,6 +8,12 @@
 
 Here is a 30 days challenge, to learn something new. 
 
+Caution: <img src="Day.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />(https://github.com/sachinvastrad/dev-ops-dose/blob/master/HypeFree.jpg)
+
+# 100% Hands-on and No preaching Theory. Its Do IT Yourself Stuff for complete Devops understanding.
+
 #DEVOPS
 
 I provide you the day wise training session for 30 days. 
