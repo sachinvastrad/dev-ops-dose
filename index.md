@@ -2,10 +2,13 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-     [Today Session Link](https://youtu.be/3QwkADcRoPg)
+     
 
-[Complete Playlist](https://www.youtube.com/watch?v=d-7S7n8pcUQ&list=PLGInPFGdXenA2SFXzDWDuAod-T0KeyXg_) 
 
+[Today Session Link](https://youtu.be/3QwkADcRoPg)
+
+
+# To get Live Class Notification Please Do  Subscribe and press BELL Icon on my Youtube Channel. :)
 
 <img src="HypeFree.jpg"
      alt="Markdown Monster icon"
@@ -31,9 +34,9 @@ Every day you need to spend 30 mins with me on Live session.
 ## - To develop a workable devops pipeline.
 ## - Spend atleast 30 mins a Day for next 30 days. 
 
+[Complete Playlist](https://www.youtube.com/watch?v=d-7S7n8pcUQ&list=PLGInPFGdXenA2SFXzDWDuAod-T0KeyXg_) 
 
 
-# Dont Forget to Subscribe and press BELL Icon on Youtube Channel , So that you get notification on Time :)
 
 
 For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/EYtBtyICAYwCVAngWKqUgi).
