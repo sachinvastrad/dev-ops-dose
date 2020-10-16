@@ -3,9 +3,9 @@
      style="float: left; margin-right: 10px;" />
      
      
+# + Today there is be No Session 
 
-
-# [Today Session Link](https://www.youtube.com/watch?v=bWoQKINHjrI)
+# [Tomorrow's  Session Link](https://youtu.be/Z6GI1gyIHQs)
 
 
 # To get Live Class Notification Please Do  Subscribe and press BELL Icon on my Youtube Channel. :)
