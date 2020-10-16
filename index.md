@@ -8,7 +8,7 @@
 # [Tomorrow's  Session Link](https://youtu.be/Z6GI1gyIHQs)
 
 
-# To get Live Class Notification Please Do  Subscribe and press BELL Icon on my Youtube Channel. :)
+#### To get Live Class Notification Please Do  Subscribe and press BELL Icon on my Youtube Channel. :)
 
 <img src="HypeFree.jpg"
      alt="Markdown Monster icon"
@@ -27,7 +27,7 @@ Here is a 30 days challenge, to learn something new.
 
 
 
-# 100% Hands-on and No preaching Theory. Its Do IT Yourself Stuff for complete Devops understanding.
+## 100% Hands-on and No preaching Theory. Its Do IT Yourself Stuff for complete Devops understanding.
 
 
 
@@ -39,18 +39,18 @@ I provide you the day wise training session for 30 days.
 Every day you need to spend 30 mins with me on Live session. 
 
 
-# Objectives.
+## Objectives.
 
-## - To Learn, understand and appreciate DEVOPS 
-## - To develop a workable devops pipeline.
-## - Spend atleast 30 mins a Day for next 30 days. 
+### - To Learn, understand and appreciate DEVOPS 
+### - To develop a workable devops pipeline.
+### - Spend atleast 30 mins a Day for next 30 days. 
 
 [Complete Playlist](https://www.youtube.com/watch?v=d-7S7n8pcUQ&list=PLGInPFGdXenA2SFXzDWDuAod-T0KeyXg_) 
 
 
 
 
-### For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/EYtBtyICAYwCVAngWKqUgi).
+#### For support and discussion  [Join our Whatapp group](https://chat.whatsapp.com/EYtBtyICAYwCVAngWKqUgi).
 
 #  Day 1 Introduction to kubernetes 
 
