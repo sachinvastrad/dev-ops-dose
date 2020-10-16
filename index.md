@@ -3,7 +3,7 @@
      style="float: left; margin-right: 10px;" />
      
      
-# + Today there is be No Session 
++ There will be no class today 
 
 # [Tomorrow's  Session Link](https://youtu.be/Z6GI1gyIHQs)
 
