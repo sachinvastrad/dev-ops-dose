@@ -15,6 +15,8 @@
 ## once you down load exe 
 ## create a DIR in e.g  C:\k8 and copy-paste the downloaded file
 
+## minikube.exe start  ( name of the Exe which you download)
+
 ## RUN a command to check setup is allgood  :
 
 # kubectl  run -it sachin-pod --image=ubuntu --restart=Never -- bash
