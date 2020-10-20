@@ -1,7 +1,7 @@
 // https://github.com/spring-petclinic/spring-petclinic-rest
 sudo docker login --username=sachinv18 # Use your Login Name
 cd dock 
-sudo docker build -t petclinic:latest .
+sudo docker build -t petclinicv2:latest .
 sudo docker tag petclinicv2:latest sachinv18/petclinicv2:1.0.0
 sudo docker push sachinv18/petclinicv2:1.0.0
 
