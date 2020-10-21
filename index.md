@@ -3,9 +3,9 @@
      style="float: left; margin-right: 10px;" />
      
      
-+ There will be no class today 
 
-# [Tomorrow's  Session Link](https://youtu.be/Z6GI1gyIHQs)
+
+# [Today's  Session Link](https://youtu.be/97Ks3cbHE_I) 
 
 
 #### To get Live Class Notification Please Do  Subscribe and press BELL Icon on my Youtube Channel. :)
