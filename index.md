@@ -143,5 +143,13 @@ https://artifacthub.io/
 
 [video](https://youtu.be/Z6GI1gyIHQs)
 
+[All Resource](https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day12)
+# Day 13 
+[video](https://youtu.be/97Ks3cbHE_I)
+
+[All Resource](https://github.com/sachinvastrad/dev-ops-dose/tree/master/Day13)
+
+
+
 ### Support or Contact
 
